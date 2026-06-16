@@ -1,9 +1,9 @@
-# Student Branching App
+﻿# Student Branching App
 
 Учебный проект по веткам Git и Pull Request.
 
 **Студент:** dazaipast  
-**Статус:** в работе
+**Статус:** выполнено
 
 ## Запуск
 
@@ -13,15 +13,15 @@ python main.py
 
 ## Ветки
 
-- `main` — рабочая версия
-- `feature/profile` — профиль студента
-- `feature/subjects` — предметы
-- `feature/report` — отчёт (через Pull Request)
-- `experiment/broken-idea` — эксперимент (не сливалась)
+| Ветка | Что сделано | Как слили |
+|-------|-------------|-----------|
+| feature/profile | модуль profile.py | merge в main локально |
+| feature/subjects | модуль subjects.py | merge в main локально |
+| feature/report | модуль report.py | Pull Request на GitHub |
+| experiment/broken-idea | broken.py | удалена, не сливалась |
 
 ## Pull Request
-
-_Будет добавлено после шага 4._
+https://github.com/dazaipast/git-branching-homework-dazaipast/pull/1
 
 ## Скриншоты
 
