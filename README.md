@@ -21,7 +21,7 @@ python main.py
 | experiment/broken-idea | broken.py | удалена, не сливалась |
 
 ## Pull Request
-https://github.com/dazaipast/git-branching-homework-dazaipast/pull/1
+https://github.com/dazaipast/hw-branch/pull/1
 
 ## Скриншоты
 
