@@ -1,9 +1,11 @@
-"""Student Branching App — точка входа."""
+﻿"""Student Branching App — точка входа."""
+
+from profile import show_profile
 
 
 def main() -> None:
     print("Student Branching App")
-    print("Добавьте модули через feature-ветки.")
+    show_profile()
 
 
 if __name__ == "__main__":
